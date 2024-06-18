@@ -1,7 +1,11 @@
 <div align="center">
-
-
+  
 ## Ansible-Practice
+
+</div>
+
+<div align="center">
+  
 ```
                                                                    
                                                                         
@@ -33,6 +37,11 @@
                       ██████████████████                      
                                                  
 ```
+</div>
+
+
+<div align="center">
+  
 ## Table of Contents
 
 </div>
